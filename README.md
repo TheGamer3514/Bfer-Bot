@@ -6,10 +6,11 @@ Feel free to use this basic bot
 Do what you want tbh.
 
 # Setup:
-1. Fill Out The Config In `config.js`
-2. Run `npm i discord.js`
-3. Run `node .`
-4. Done! If you want to change more then that is fine! To change responses go to `index.js`
+1. Rename `example.config.js` to `config.js`
+2. Fill Out The Config In `config.js`
+3. Run `npm i discord.js`
+4. Run `node .`
+5. Done! If you want to change more then that is fine! To change responses go to `index.js`
 
 
 # Links:
